@@ -1,0 +1,11 @@
+name: ml1labs
+channels:
+- defaults
+dependencies:
+- jupyter=1.0.0
+- matplotlib=2.0.2
+- numpy=1.13.1
+- python=3.6.2
+- scikit-learn=0.19.0
+- scipy=0.19.1
+- nb_conda=2.2.1
