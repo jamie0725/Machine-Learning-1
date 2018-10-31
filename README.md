@@ -1,7 +1,7 @@
 # Machine Learning 1
 
 ### About
-This repository contains code for projects of Msc. course Machine Learning 1
+This repository contains code for projects of Msc. course Machine Learning 1.
 
 ### Compile
 1. Installing conda
